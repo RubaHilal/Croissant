@@ -1,4 +1,38 @@
 footer {
     display: block;
     text-align: center;
+    padding: 20px;
+}
+
+a {
+    color: aliceblue;
+}
+
+body{
+    background-color:pink ;
+    text-align: center;
+}
+img {
+    display: block;
+}
+
+p {
+    color: aliceblue;
+}
+
+h1 h2 h3 h4 {
+   color: black;
+}
+a {
+     color: blanchedalmond;
+   margin: 30px;
+
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+.email {
+    color: aquamarine;
 }
